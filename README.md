@@ -1,7 +1,4 @@
 # containerized-dev-env
-
-# Project Name
-
 > A DevOps-optimized container setup using Docker and Docker Compose for reproducible, secure, and efficient local development and CI workflows.
 
 ---
